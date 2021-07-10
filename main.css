@@ -81,7 +81,7 @@
     height: 80px;
     width: 80px;
     line-height: 80px;
-    background: #b89e0a;
+    background: #444;
 	box-shadow: 2px 3px 4px #3a3a3a;
     color: #fff;
     font-size: 30px;
@@ -336,7 +336,7 @@ flex-wrap: wrap;
     margin: 20px auto;
     padding: 10px;
     max-width: 600px;
-    background: linear-gradient(17deg, #62bcdd, var(--white));
+    background: linear-gradient(17deg, #444, var(--white));
     box-shadow: 3px 4px 4px #ccc;
 }
 
